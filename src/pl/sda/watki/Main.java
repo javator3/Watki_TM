@@ -3,6 +3,7 @@ package pl.sda  .watki;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        InfinityRunner infinityRunner = new InfinityRunner();
+        infinityRunner.start();
     }
 }
